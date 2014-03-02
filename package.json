@@ -1,0 +1,29 @@
+{
+  "name": "mongo-start",
+  "version": "0.1.0",
+  "description": "Simple wrapper to get a mongojs collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kevnz/mongo-start.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongojs",
+    "nosql",
+    "database"
+  ],
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevnz/mongo-start/issues"
+  },
+  "homepage": "https://github.com/Kevnz/mongo-start",
+  "dependencies": {
+    "mongojs": "~0.10.0",
+    "qconf": "~2.2.0"
+  }
+}
