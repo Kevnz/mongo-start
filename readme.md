@@ -11,3 +11,10 @@ users.find({...}, function (err, collection) {
     //do stuff
 });
 ```
+
+```javascript
+var db = require('mongo-start')(); //mongojs db object
+db.getCollectionNames(function(err, collectionNames) {
+	//collections in the db
+});
+```
