@@ -1,7 +1,4 @@
-var env = process.env.NODE_ENV || 'test';
-
-var qconf = require('qconf'),
-    config = qconf({},['file://config/config.json', 'file://config/config.'+ env + '.json']);
+var config = require('xtconf');
 
 module.exports = function (collection) {
     var mongojs = require('mongojs');
