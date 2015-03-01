@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Kevnz/mongo-start.png?branch=master)](https://travis-ci.org/Kevnz/mongo-start)
 Mongo-Start
 =========
 
