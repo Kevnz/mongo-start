@@ -9,3 +9,5 @@ module.exports = function (collection) {
     var db = mongojs(config.get('mongo-connection'));
     return typeof collection === "string" ? db.collection(collection) : db;
 };
+
+module.exports.mongojs = require('mongojs');
