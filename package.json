@@ -1,6 +1,6 @@
 {
   "name": "mongo-start",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Simple wrapper to get a mongojs collection",
   "main": "index.js",
   "scripts": {
@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/Kevnz/mongo-start",
   "dependencies": {
-    "mongojs": "^0.18.2",
-    "xtconf": "0.0.2"
+    "mongojs": "^2.4.0",
+    "xtconf": "^2.0.0"
   },
   "devDependencies": {
-    "proxyquire": "^1.3.1",
-    "tap": "^0.7.1"
+    "fuxor": "^2.0.0",
+    "tap": "^9.0.3"
   }
 }
