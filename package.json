@@ -1,6 +1,6 @@
 {
   "name": "mongo-start",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Simple wrapper to get a mongojs collection",
   "main": "index.js",
   "scripts": {
