@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "fuxor": "^2.0.0",
-    "tap": "^9.0.3"
+    "tap": "^10.7.2"
   }
 }
