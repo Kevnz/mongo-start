@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/Kevnz/mongo-start",
   "dependencies": {
-    "mongojs": "^2.4.0",
-    "xtconf": "^2.0.0"
+    "mongojs": "^3.1.0",
+    "xtconf": "^4.1.0"
   },
   "devDependencies": {
-    "fuxor": "^2.0.0",
-    "tap": "^10.7.2"
+    "fuxor": "^2.3.0",
+    "tap": "^14.10.8"
   }
 }
